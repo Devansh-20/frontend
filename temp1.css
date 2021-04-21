@@ -1,0 +1,144 @@
+body{
+    background-color: rgba(99, 113, 149, 0.664);
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#college{
+    font-size: 20px;
+    font-family: cursive;
+    margin-top: -175px;
+    margin-left :300px;;
+
+}
+
+#school{
+    font-size: 18px;
+    font-family: cursive;
+    margin-right: 1118px;
+    text-align: center;
+}
+
+#school1{
+    /* border-radius: 9px; */
+    /* border: 2px solid black; */
+    float: right;
+    display: inline;
+    margin-left: 800px;
+    margin-top: -470px;
+    margin-right: 450px;
+    height: 500px;
+}
+
+#main{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    width: 328px;
+    height: 140px;
+    margin-top: 40px;
+    border: 2px solid rgb(160, 148, 148);
+    border-radius: 12px;
+    box-shadow: 3px 3px grey; 
+}
+
+#main2{
+    margin-top: 5px;
+    margin-left: 219px;
+    margin-right: 14px;
+    width: 914px;
+    height: 217px;
+    border: 2px solid rgb(160, 148, 148);
+    border-radius: 12px;
+    box-shadow: 3px 3px grey;
+}
+
+#main3{
+    text-align-last: center ;
+    margin: 0px;
+    font-size: 27px;
+    font-family: cursive;
+}
+
+#main4{
+    font-size: 32px;
+    font-family: 'Butterfly Kids', cursive;
+    margin-left: 900px;
+    margin-top: -15px;
+    color: rgb(61, 0, 0);
+}
+
+#main5{
+    font-size: 23px;
+    margin-left: 900px;
+    margin-top: -26px;
+    font-family:'Adobe Blank' , cursive;
+}
+
+#main6{
+    margin-top: -12px;
+    font-size: 29px;
+    margin-left: 830px;
+}
+
+#main7{
+    margin-left: 800px;
+    font-size: 13px;
+}
+
+main11{
+    display: block;
+    width: 401px;
+    height: 77px;
+}
+
+#butt{
+    background-color: tomato;
+    
+}
+
+#div{
+    padding-left: 3px;
+    margin-top: -390px;
+    margin-left: 228px;
+    margin-right: 580px;
+    border: 2px solid black;
+    border-radius: 13px;
+    text-align: center;
+    
+}
+
+#main8{
+    margin-left: 11px;
+}
+
+#main20{
+    margin-top: 13px;
+    border: 2px solid black;
+    border-radius: 15px;
+    size: 44px;
+}
+#img1{
+    padding-top: 3px;
+    padding-left: 623px;
+    width: 64px;
+}
+
+#img2{
+    padding-left: 3px;
+    width: 68px;
+}
+
+#reach{
+    padding-top: 0px;
+    font-size: 22px;
+    padding-left: 600px;
+}
+
+#main88{
+    text-align: center;
+}
